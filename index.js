@@ -1,4 +1,4 @@
 // Write your code here!
 document.getElementById("main").remove();
-let element = document.head.querySelector("title").createElement('h1')
-document.
+let element = document.createElement('h1')
+document.head.querySelector("title").appendChild(element)
