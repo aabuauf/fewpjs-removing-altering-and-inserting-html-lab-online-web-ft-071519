@@ -1,2 +1,2 @@
 // Write your code here!
-document.getElementById("main")
+document.getElementById("main").remove();
