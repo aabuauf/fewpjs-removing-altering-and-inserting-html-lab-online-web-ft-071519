@@ -1,3 +1,3 @@
 // Write your code here!
 document.getElementById("main").remove();
-document.body
+let element = document.head.createElement('h1')
